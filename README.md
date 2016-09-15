@@ -16,3 +16,7 @@ Slides [here](slides.com/andresmijares/async-operations-with-redux-saga).
 * run ```npm install``` on the console.
 * run ```npm start``` to init the project.
 * run ```npm test``` to execute the tests.
+
+## License
+
+[GNU](https://github.com/ReactJS-BA/meetup-2016-09-14/blob/master/LICENSE).
